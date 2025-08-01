@@ -117,3 +117,4 @@ if ! shopt -oq posix; then
 fi
 
 export KIND_EXPERIMENTAL_PROVIDER=podman
+eval "$(starship init bash)"
