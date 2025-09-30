@@ -70,7 +70,7 @@ truncation_symbol = "…/"
 # "Important 󰈙 " = " 󰈙 "
 
 [aws]
-format = '[$symbol($profile )(\($region\) )]($style)'
+format = '[$symbol(\($region\) )]($style)'
 style = "bg:27"
 symbol = ' '
 
